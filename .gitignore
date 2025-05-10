@@ -1,0 +1,8 @@
+clips/
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mkv
+*.flv
+.DS_Store
